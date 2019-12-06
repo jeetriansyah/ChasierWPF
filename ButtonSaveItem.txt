@@ -1,0 +1,40 @@
+if (TxtItemName.Text == "")
+{
+    MessageBox.Show("Item Name cannot be empty!", "Caution", MessageBoxButton.OK);
+    TxtItemName.Focus();
+}
+else if (TxtStock.Text == "")
+{
+    MessageBox.Show("Stock cannot be empty!", "Caution", MessageBoxButton.OK);
+    TxtStock.Focus();
+}
+else if (TxtPrice.Text == "")
+{
+    MessageBox.Show("Price cannot be empty!", "Caution", MessageBoxButton.OK);
+    TxtPrice.Focus();
+}
+else if (CmbSupplier.Text == "- Choose Supplier -")
+{
+    MessageBox.Show("Please, select a supplier!", "Caution", MessageBoxButton.OK);
+    CmbSupplier.Focus();
+}
+else
+{
+    var supplier = myContext.Suppliers.Where(s => s.Id == supplierId).FirstOrDefault();
+    var push = new Items(TxtItemName.Text, Convert.ToInt32(TxtStock.Text), 	Convert.ToInt32(TxtPrice.Text), supplier);
+    myContext.Items.Add(push);
+    var result = myContext.SaveChanges();
+    if (result > 0)
+    {
+        MessageBox.Show("1 row has been inserted!");
+    }
+    ShowData();
+    CmbNameItem.ItemsSource = myContext.Items.ToList();
+    TxtItemID.Text = "";
+    TxtItemName.Text = "";
+    TxtStock.Text = "";
+    TxtPrice.Text = "";
+	//CmbSupplier.ItemsSource = myContext.Suppliers.ToList();
+	//CmbSupplier.Text = "- Choose Supplier -";
+	//supplierId = 0;
+}

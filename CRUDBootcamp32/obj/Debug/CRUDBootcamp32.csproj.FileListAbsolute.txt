@@ -1,0 +1,55 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\CRUDBootcamp32.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\CRUDBootcamp32.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\CRUDBootcamp32.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\EntityFramework.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\EntityFramework.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\MainWindow.g.cs
+c:\users\lenovo\documents\visual studio 2017\Projects\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\App.g.cs
+c:\users\lenovo\documents\visual studio 2017\Projects\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\CRUDBootcamp32_MarkupCompile.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\CRUDBootcamp32_MarkupCompile.lref
+c:\users\lenovo\documents\visual studio 2017\Projects\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\MainWindow.baml
+c:\users\lenovo\documents\visual studio 2017\Projects\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\CRUDBootcamp32.g.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\CRUDBootcamp32.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\CRUDBootcamp32.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2017\Projects\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\CRUDBootcamp32.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\CRUDBootcamp32.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\CRUDBootcamp32.Migrations.AddModelSupplier.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\CRUDBootcamp32.csprojResolveAssemblyReference.cache
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\CRUDBootcamp32.exe.config
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\CRUDBootcamp32.exe
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\CRUDBootcamp32.pdb
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\EntityFramework.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\EntityFramework.SqlServer.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\MaterialDesignColors.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\Syncfusion.Compression.Base.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\Syncfusion.Compression.Portable.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\Syncfusion.Licensing.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\EntityFramework.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\EntityFramework.SqlServer.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\MaterialDesignColors.pdb
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\Syncfusion.Compression.Base.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\Syncfusion.Compression.Portable.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\CRUDBootcamp32.csproj.ResolveComReference.cache
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\ForgottPassword.g.cs
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\Login_Form.g.cs
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\MainWindow.g.cs
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\App.g.cs
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\CRUDBootcamp32_MarkupCompile.cache
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\CRUDBootcamp32_MarkupCompile.lref
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\App.baml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\ForgottPassword.baml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\Login_Form.baml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\MainWindow.baml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\CRUDBootcamp32.g.resources
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\CRUDBootcamp32.Migrations.AddModelRegister.resources
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\CRUDBootcamp32.Properties.Resources.resources
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\CRUDBootcamp32.csproj.GenerateResource.Cache
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\CRUDBootcamp32.exe
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\CRUDBootcamp32\CRUDBootcamp32\obj\Debug\CRUDBootcamp32.pdb
